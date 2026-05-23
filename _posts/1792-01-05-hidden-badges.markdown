@@ -3,7 +3,7 @@ layout: post
 title:  "Hidden Badges"
 author: Doktor Vater
 date:   2026-05-23
-category: Badges
+category: badges
 ---
 
 Normal practice is to display the public badges in arriving at a hand event and removing the bag or clothing when the event starts, to reveal the kink achievements underneath. These skill badges may only be displayed at official Kinkwright events. 
