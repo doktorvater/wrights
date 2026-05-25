@@ -10,7 +10,7 @@ Rope represents the main field of study for this hand and therefore every member
 
 Members are considered to be just apprentices until they earn their first rope badge and the status of compagnon. So, until a member displays a rope badge, she or he may only attend meetings when a member has invited them. All compagnons who display a rope badge may attend any hand meeting. 
 
-Their are six steps the must be earned in this order: 
+There are six steps the must be earned in this order: 
 1. Attend a rope class that includes a discussion of how to safely tie limbs without damage to nerves or blood vessels.
 2. Write a post on the hand discord site where you describe how what you learned about safety will guide your practice in rope. This must be well thought out.
 3. Research the different styles of rope made from different materials and how they affect shibari practice. Purchase two hundred feet/sixty-five meters of your preferred rope and prepare the lengths you want to use.
